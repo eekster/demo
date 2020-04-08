@@ -5,3 +5,4 @@ This is a simple readme file
 ## Heading 2
 
 This is the start of the advanced course using DIFFTOOL
+Some more updates on a branch
