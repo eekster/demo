@@ -6,3 +6,4 @@ This is a simple readme file
 
 This is the start of the advanced course using DIFFTOOL
 Some more updates on a branch
+I hope this isn't much of a problem.
